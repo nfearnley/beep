@@ -1,0 +1,1 @@
+pyinstaller launcher.py -F -w -n beep --add-data beep/sounds;beep/sounds
